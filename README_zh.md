@@ -22,7 +22,7 @@ UWB-TWHP 是一个面向室内穿墙场景的超宽带雷达三维人体姿态�
 
 ## 数据获取
 
-数据集发布于 Science Data Bank(<https://www.scidb.cn/>)，数据上传完毕后，会暂时处于保护期，我们将在数据集论文被期刊接收后取消保护期，并在此更新下载链接。
+数据集已发布于 Science Data Bank(<https://www.scidb.cn/>)，CSTR<https://cstr.cn/31253.11.sciencedb.41175>，DOI<https://doi.org/10.57760/sciencedb.41175>，目前暂时处于保护期，我们将在数据集论文被期刊接收后取消保护期，并在此更新下载链接。
 
 > 数据下载链接：待补充
 

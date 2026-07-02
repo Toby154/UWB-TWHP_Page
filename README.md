@@ -22,7 +22,7 @@ UWB-TWHP is an ultra-wideband radar dataset for through-wall 3D human pose estim
 
 ## Data Access
 
-The dataset is hosted on Science Data Bank (<https://www.scidb.cn/>). After the data upload is complete, the dataset will temporarily remain under an embargo. We will remove the embargo after the dataset paper is accepted by a journal and update the download link here.
+The dataset has been published on Science Data Bank (<https://www.scidb.cn/>), with CSTR <https://cstr.cn/31253.11.sciencedb.41175> and DOI <https://doi.org/10.57760/sciencedb.41175>. It is currently under a temporary embargo. We will remove the embargo after the dataset paper is accepted by a journal and update the download link here.
 
 > Download link: to be updated
 
