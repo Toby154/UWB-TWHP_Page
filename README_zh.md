@@ -25,6 +25,10 @@ UWB-TWHP 是一个面向室内穿墙场景的超宽带雷达三维人体姿态�
 
 数据集在 [Science Data Bank（科学数据银行）](https://www.scidb.cn/) 开放获取：[DOI：10.57760/sciencedb.41175](https://doi.org/10.57760/sciencedb.41175)，[CSTR：31253.11.sciencedb.41175](https://cstr.cn/31253.11.sciencedb.41175)。请通过该条目下载数据。
 
+由于数据文件较大，建议使用 **FTP 下载**，网页下载速度可能存在波动。打开数据发布页，向下滚动至 **Data File Download**（数据文件下载）区域，点击 **FTP** 按钮，即可查看 FTP 主机地址、用户名、密码和端口，并使用这些信息配置 FTP 客户端进行下载。
+
+![FTP 下载信息获取方式：（a）数据文件下载区域；（b）FTP 账号信息窗口](pic/ftp_download.png)
+
 数据集包含以下发布文件：
 
 | 压缩包 | 内容 |
